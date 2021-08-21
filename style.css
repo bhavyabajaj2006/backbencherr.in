@@ -31,6 +31,7 @@ blockquote{
   box-sizing: border-box;
 }
 image{
+
   height: auto;
   width: auto;
   object-position: top;
@@ -58,10 +59,10 @@ footer{
   }
 }
 p{
- text-align:right;
+ text-align:center;
 
  
 }
 h6{
-text-align:right;
+  text-align: right;
 }
